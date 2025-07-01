@@ -4,9 +4,7 @@ A simple web app built using Streamlit that classifies SMS messages as Spam or H
 💡 How it Works
 
 \- The model was trained on the `spam.csv` dataset using CountVectorizer and Multinomial Naive Bayes.
-
 \- Once trained, the model and vectorizer are saved using `joblib`.
-
 \- This app loads those files and classifies user input in real time.
 
 
