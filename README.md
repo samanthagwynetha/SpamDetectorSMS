@@ -1,5 +1,5 @@
 📩 SMS Spam Detector
-A simple web app built using Streamlit that classifies SMS messages as \*\*Spam\*\* or \*\*Ham\*\* using a trained Naive Bayes model.
+A simple web app built using Streamlit that classifies SMS messages as Spam or Ham using a trained Naive Bayes model.
 
 💡 How it Works
 
