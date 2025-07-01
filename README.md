@@ -11,16 +11,13 @@ A simple web app built using Streamlit that classifies SMS messages as \*\*Spam\
 
 
 
-\## 🚀 Run Locally
+🚀 Run Locally
 
 ```bash
 
 python -m venv venv
-
-venv\\Scripts\\activate
-
+venv\Scripts\activate
 pip install -r requirements.txt
-
 streamlit run app.py
 
 
